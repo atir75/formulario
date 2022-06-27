@@ -26,3 +26,7 @@ legend{
     background-color: dodgerblue;
     border-radius: 8px;
 }
+
+.inputBox{
+    position: relative;
+}
