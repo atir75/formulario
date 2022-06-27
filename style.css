@@ -13,7 +13,7 @@ body{
     border-radius: 15px;
     width: 20%;
     color: white;
-    min-width: 350px;
+    min-width: 355px;
     min-height: 200px;
 }
 
@@ -38,4 +38,7 @@ legend{
     border-bottom: 1px solid white;
     outline: none;
     color: white;
+    font-size: 15px;
+    width: 100%;
+    letter-spacing: 2px;
 }
