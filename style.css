@@ -57,3 +57,10 @@ legend{
     font-size: 12px;
     color: dodgerblue;
 }
+
+#data_nascimento{
+    border: none;
+    padding: 8px;
+    border-radius: 10px;
+    outline: none;
+}
