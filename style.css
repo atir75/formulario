@@ -13,6 +13,8 @@ body{
     border-radius: 15px;
     width: 20%;
     color: white;
+    min-width: 350px;
+    min-height: 200px;
 }
 
 fieldset{
@@ -29,4 +31,11 @@ legend{
 
 .inputBox{
     position: relative;
+}
+.inputUser {
+    background: none;
+    border: none;
+    border-bottom: 1px solid white;
+    outline: none;
+    color: white;
 }
