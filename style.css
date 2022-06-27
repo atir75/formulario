@@ -42,3 +42,11 @@ legend{
     width: 100%;
     letter-spacing: 2px;
 }
+
+.labelInput {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    pointer-events: none;
+    transition: .5s;
+}
